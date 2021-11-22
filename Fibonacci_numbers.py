@@ -3,7 +3,7 @@
 # The desired output is like :
 
 # fibonacci →  [1, 1, 2, 3, 5, 8, 13, 21, 34, 55]
-number_1 = 0
+number_1 = 1
 number_2 = 1
 f_list = []
 count = 0
